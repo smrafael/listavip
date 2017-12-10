@@ -17,3 +17,7 @@ buildNumber.properties
 .classpath
 .project
 .settings/
+
+# Idea Project Files
+.idea/
+listavip.iml
